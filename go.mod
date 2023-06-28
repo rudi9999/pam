@@ -1,4 +1,4 @@
-module github.com/msteinert/pam
+module github.com/rudi9999/ppam
 
 go 1.20
 
