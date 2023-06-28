@@ -1,5 +1,5 @@
 // Package pam provides a wrapper for the PAM application API.
-package pam
+package pam2
 
 //#include <security/pam_appl.h>
 //#include <stdlib.h>
