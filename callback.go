@@ -1,4 +1,4 @@
-package pam
+package pam2
 
 import "sync"
 
